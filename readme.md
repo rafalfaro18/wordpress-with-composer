@@ -8,6 +8,10 @@ Instructions:
 ```bash
 composer install
 ```
+- - On the terminal cd into project root directory and run:
+```bash
+npm install
+```
 - Move wp/wp-content folder one directory up
 
 - Move wp/wp-config-sample.php file one directory up. Rename it to wp-config.php
